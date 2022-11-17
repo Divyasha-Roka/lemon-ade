@@ -11,7 +11,7 @@ Lemonade, with a frontend built in React & Redux and a backend built in Django A
 
 Check out [FRONTEND LIVE DEMO](https://lemonade-front.divyasharoka.repl.co/) here!!
 
-Check out [API LIVE DEMO]() here!!
+Check out [API LIVE DEMO](https://lemonade-backend-1.divyasharoka.repl.co/) here!!
 
 ## Tech used
 
