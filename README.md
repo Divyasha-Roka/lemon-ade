@@ -25,7 +25,7 @@ Check out [API LIVE DEMO](https://lemonade-backend-1.divyasharoka.repl.co/) here
 1. Git Clone
 
 ```
-git clone https://github.com/DivyashaRoka/cinema-paradise-div
+git clone
 ```
 
 2. Backend setting
