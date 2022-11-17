@@ -9,7 +9,7 @@ Lemonade, with a frontend built in React & Redux and a backend built in Django A
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO]() here!!
+Check out [FRONTEND LIVE DEMO](https://lemonade-front.divyasharoka.repl.co/) here!!
 
 Check out [API LIVE DEMO]() here!!
 
